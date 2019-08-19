@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kurtis D. Miller</title>
+    <link>https://kurtisdmiller.com/categories/</link>
+    <description>Recent content in Categories on Kurtis D. Miller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}, Kurtis D. Miller, some rights reserved.</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://kurtisdmiller.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://kurtisdmiller.com/categories/research/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtisdmiller.com/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://kurtisdmiller.com/categories/service/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtisdmiller.com/categories/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://kurtisdmiller.com/categories/teaching/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtisdmiller.com/categories/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leisure</title>
+      <link>https://kurtisdmiller.com/categories/leisure/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtisdmiller.com/categories/leisure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>https://kurtisdmiller.com/categories/meta/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtisdmiller.com/categories/meta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
