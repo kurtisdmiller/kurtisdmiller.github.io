@@ -1,0 +1,124 @@
+/*
+CSS for web formatting of a curriculum vitae. Modified from CSS for documents using APA style.
+
+Created for APA 6th Ed.
+*/
+
+body{
+    font-family: "Arial", "sans-serif";
+    font-size:         1rem;
+}
+
+dt {
+    font-size:         1rem;
+    width:             6rem;
+    float:             left;
+    margin-left:       1rem;
+    text-align:      center;
+}
+dd {
+    font-size:         1rem;
+    margin-left:       7rem;
+    padding-left:      2rem; /* hanging indent */
+    text-indent:      -2rem; /* hanging indent */
+    margin-top:        1rem; /* "double space" between each entry */
+    margin-bottom:     1rem; /* "double space" between each entry */
+}
+ul{
+    font-size:          1rem;
+    padding-left:     1.5rem; /* horizontal alignment with centered date spans */
+}
+li {
+    margin-top:         1rem; /* "double space" between each entry */
+    margin-bottom:      1rem; /* "double space" between each entry */
+}
+abbr[title] {
+  text-decoration:      none;
+}
+#header-left {
+    font-size:          1rem;
+    display:    inline-block;
+    width:               50%;
+}
+#header-right {
+    font-size:          1rem;
+    display:    inline-block;
+    text-align:        right;
+    width:               50%;
+}
+
+/*
+Headings
+
+Does not handle capitalization or punctuation. Inline headings do not work with <p> block elements
+*/
+h1{
+    font-size:       2rem;
+    text-align:    center;
+    font-weight:     bold;
+    margin-bottom: .25rem;
+}
+h2{
+    font-size:    1.41rem;
+    font-weight:     bold;
+}
+h3{
+    font-size:       1rem;
+    font-weight:     bold;
+    padding-left:    1rem;
+    /* display:      inline-block; */ /* not used in cv, but used to make these inline headings in APA style */
+}
+h4{
+    font-size:       1rem;
+    font-weight:     bold;
+    font-style:    italic;
+    padding-left:    1rem;
+    /* display:      inline-block; */ /* not used in cv, but used to make these inline headings in APA style */
+}
+h5{
+    font-size:       1rem;
+    font-style:    italic;
+    padding-left:    1rem;
+    /* display:      inline-block; */ /* not used in cv, but used to make these inline headings in APA style */
+}
+/* h6 is not used, APA style only goes 5 levels deep */
+
+/*
+References
+
+Layout only.
+*/
+
+.reference {
+    padding-left:   1rem; /* hanging indent */
+    text-indent:   -1rem; /* hanging indent */
+    margin-top:     1rem; /* "double space" between each entry */
+    margin-bottom:  1rem; /* "double space" between each entry */
+}
+
+/*
+Courses
+
+Layout only.
+*/
+
+.course {
+    text-align:         left;
+    padding-left:     1.5rem; /* horizontal alignment with centered date spans, hanging indent */
+    text-indent:       -1rem; /* hanging indent */
+    width:             17rem; /* increase this if course names wrap, which destroys this formatting */
+}
+.course-dates {
+    margin-left:       18rem; /* increase this if course names wrap, which destroys this formatting */
+}
+
+@media screen and (max-width: 700px) { /* For mobile devices smaller than most tablets, display dates indented on a new line */
+    .course {
+        width:          100%;
+}
+    .course-dates{
+        margin-left:  2.5rem;
+        padding-left:   1rem; /* hanging indent */
+        text-indent:   -1rem; /* hanging indent */
+    }
+}
