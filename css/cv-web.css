@@ -7,6 +7,8 @@ Created for APA 6th Ed.
 body{
     font-family: "Arial", "sans-serif";
     font-size:         1rem;
+    max-width:       1080px; /* reasonable line wrapping */
+    margin:          0 auto; /* centers content container */
 }
 
 dt {
@@ -106,10 +108,10 @@ Layout only.
     text-align:         left;
     padding-left:     1.5rem; /* horizontal alignment with centered date spans, hanging indent */
     text-indent:       -1rem; /* hanging indent */
-    width:             17rem; /* increase this if course names wrap, which destroys this formatting */
+    width:             20rem; /* increase this if course names wrap, which destroys this formatting */
 }
 .course-dates {
-    margin-left:       18rem; /* increase this if course names wrap, which destroys this formatting */
+    margin-left:       21rem; /* increase this if course names wrap, which destroys this formatting */
 }
 
 @media screen and (max-width: 700px) { /* For mobile devices smaller than most tablets, display dates indented on a new line */
