@@ -79,7 +79,7 @@ I am a big fan of AutoHotKey. It lets me make a lot of parts of computer interac
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.c9f8eb5ad81a8e7a0513ed703fd34f13.css">
+  <link rel="stylesheet" href="/css/academic.min.0d1b8e05cf7c901cd9285d8e7bceb411.css">
 
   
 
@@ -586,35 +586,35 @@ I am a big fan of AutoHotKey. It lets me make a lot of parts of computer interac
 
 <p>This system is terrible. Using three keys at once is a pain, and the keys aren&rsquo;t even on the same side of the keyboard, so I can&rsquo;t switch one handed. Fortunately, I know how to fiddle with AutoHotKey to make things work better. I wrote this short script so I could hold down the blank key in the middle of my number pad (the &ldquo;5&rdquo; key when NumLock is on) and switch back and forth by using the left and right arrows. This key didn&rsquo;t do anything anyway, so it isn&rsquo;t really a loss. This was my initial script:</p>
 <pre><code class="language-autohotkey" data-lang="autohotkey">; switch to previous virtual desktop with NumLock Off
-NumpadClear & NumpadLeft::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
+NumpadClear &amp; NumpadLeft::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
 ; switch to next virtual desktop with NumLock off
-NumpadClear & NumpadRight::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}</code></pre>
+NumpadClear &amp; NumpadRight::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}</code></pre>
 <p>That&rsquo;s right, it&rsquo;s only two lines long, but it worked great! Soon, I realized that I use it a lot and toggling NumLock was annoying. In addition, if I added a couple lines to the script, the &ldquo;5&rdquo; key would always function normally anyway, unless I pressed another button while it was down. I added a few lines to the script and it was even better:</p>
 <pre><code class="language-autohotkey" data-lang="autohotkey">; switch to previous virtual desktop with NumLock On
-Numpad5 & Numpad4::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
+Numpad5 &amp; Numpad4::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
 ; switch to next virtual desktop with NumLock On
-Numpad5 & Numpad6::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}
+Numpad5 &amp; Numpad6::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}
 ; switch to previous virtual desktop with NumLock Off
-NumpadClear & NumpadLeft::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
+NumpadClear &amp; NumpadLeft::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
 ; switch to next virtual desktop with NumLock off
-NumpadClear & NumpadRight::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}
+NumpadClear &amp; NumpadRight::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}
 Numpad5::sendInput {Numpad5}
 NumpadClear::sendevent {NumpadClear}</code></pre>
 <p>Now the script worked when NumLock was on and when it was off. It was perfect, except about 2 weeks later I was using my mouse and got annoyed with having to go back and forth between the keyboard and the mouse, since my number pad is also on the right side of my laptop. Then it hit me, I could switch back and forth using the left and right clicks on the mouse wheel, which I have never used for scrolling anyway. So, I added a few more lines to the script.</p>
 <pre><code class="language-autohotkey" data-lang="autohotkey">; use Numpad keys to Navigate multiple virtual desktops
 
 ; switch to previous virtual desktop with NumLock On
-Numpad5 & Numpad4::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
+Numpad5 &amp; Numpad4::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
 ; switch to next virtual desktop with NumLock On
-Numpad5 & Numpad6::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}
+Numpad5 &amp; Numpad6::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}
 ; switch to previous virtual desktop with NumLock Off
-NumpadClear & NumpadLeft::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
+NumpadClear &amp; NumpadLeft::sendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}
 ; switch to next virtual desktop with NumLock off
-NumpadClear & NumpadRight::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}
+NumpadClear &amp; NumpadRight::sendInput {LWin down}{LCtrl down}{Right}{LWin up}{LCtrl up}
 Numpad5::sendInput {Numpad5}
 NumpadClear::sendevent {NumpadClear}
 
-; use mouse wheel scroll left & right to navigate virtual desktops
+; use mouse wheel scroll left &amp; right to navigate virtual desktops
 
 ; switch to previous virtual desktop
 WheelLeft::SendInput {LWin down}{LCtrl down}{Left}{LWin up}{LCtrl up}

@@ -380,29 +380,29 @@ Coursework assigned an alternate deadline is graded for full credit, but will no
       <description>&lt;h1 id=&#34;section-supplemental-information&#34;&gt;Section Supplemental Information&lt;/h1&gt;
 &lt;p&gt;Section 100, Fall 2020&lt;/p&gt;
 &lt;p&gt;M/W, 11:00 - 12:20, Meen 005&lt;/p&gt;
-&lt;p&gt;Hyflex Plan: Students assigned into both &amp;quot;A&amp;quot; and &amp;quot;B&amp;quot; groups. Students in the &amp;quot;A&amp;quot; group should plan for face-to-face meetings on Tuesdays, and students in the &amp;quot;B&amp;quot; group should plan for face-to-face meetings on Thursdays. Students who wish to switch from one group to another may do so &lt;em&gt;one&lt;/em&gt; time, and must find another student who is willing to switch with them.&lt;/p&gt;
+&lt;p&gt;Hyflex Plan: Students assigned into both “A” and “B” groups. Students in the “A” group should plan for face-to-face meetings on Tuesdays, and students in the “B” group should plan for face-to-face meetings on Thursdays. Students who wish to switch from one group to another may do so &lt;em&gt;one&lt;/em&gt; time, and must find another student who is willing to switch with them.&lt;/p&gt;
 &lt;h1 id=&#34;calendar&#34;&gt;Calendar&lt;/h1&gt;
 &lt;h2 id=&#34;phase-1-crawl-course-familiarization&#34;&gt;Phase 1, Crawl (Course Familiarization)&lt;/h2&gt;
 &lt;table&gt;
 &lt;colgroup&gt;
-&lt;col width=&#34;6%&#34; /&gt;
-&lt;col width=&#34;13%&#34; /&gt;
-&lt;col width=&#34;80%&#34; /&gt;
+&lt;col style=&#34;width: 5%&#34; /&gt;
+&lt;col style=&#34;width: 13%&#34; /&gt;
+&lt;col style=&#34;width: 80%&#34; /&gt;
 &lt;/colgroup&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
-&lt;th align=&#34;right&#34;&gt;Wk&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Meetings&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Topic&lt;/th&gt;
+&lt;th style=&#34;text-align: right;&#34;&gt;Wk&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Meetings&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Topic&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 8/17&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 8/17&lt;br /&gt;
 B: W, 8/19&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Welcome, Communication as Field of Study, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/COMM-210-100-FA20-KM.pdf&#34; title=&#34;Handout - Syllabus&#34;&gt;Handout&lt;/a&gt;)&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Welcome, &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/communication-as-a-field-of-study/&#34; title=&#34;Lesson Plan&#34;&gt;Communication as Field of Study&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/COMM-210-100-FA20-KM.pdf&#34; title=&#34;Handout - Syllabus&#34;&gt;Handout&lt;/a&gt;)&lt;br /&gt;
 &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/course-overview/&#34; title=&#34;Lesson Plan&#34;&gt;Course Overview&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/assignments-overview/&#34; title=&#34;Lesson Plan&#34;&gt;Assignment Overview&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/handout/fishbowl-discussion.pdf&#34; title=&#34;Handout - Fishbowl Discussion Assignment&#34;&gt;Handout 1&lt;/a&gt;, &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/handout/literature-review.pdf&#34; title=&#34;Handout - Literature Review Assignment&#34;&gt;Handout 2&lt;/a&gt;)&lt;br /&gt;
 &lt;!-- drill 22&amp;23 --&gt; &lt;em&gt;Complete the following by 8/24&lt;/em&gt;&lt;br /&gt;
@@ -413,11 +413,11 @@ B: W, 8/19&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;2&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 8/24&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 8/24&lt;br /&gt;
 B: W, 8/26&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/interpersonal-process-1/&#34; title=&#34;Lesson Plan&#34;&gt;Interpersonal Process&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/visual-aid/interpersonal-process-1/&#34; title=&#34;Visual Aid - Process Models of Communication&#34;&gt;Visual Aid&lt;/a&gt;)&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/interpersonal-process-1/&#34; title=&#34;Lesson Plan&#34;&gt;Interpersonal Process&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/visual-aid/interpersonal-process-1/&#34; title=&#34;Visual Aid - Process Models of Communication&#34;&gt;Visual Aid&lt;/a&gt;)&lt;br /&gt;
 &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/culture-interpersonal-1/&#34; title=&#34;Lesson Plan&#34;&gt;Culture and Interpersonal Comm.&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/visual-aid/culture-interpersonal-1/&#34; title=&#34;Visual Aid - National Culture&#34;&gt;Visual Aid 1&lt;/a&gt;, &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/visual-aid/culture-interpersonal-2/&#34; title=&#34;Visual Aid - Code Switching&#34;&gt;Visual Aid 2&lt;/a&gt;)&lt;br /&gt;
 &lt;em&gt;Complete the following by 8/31&lt;/em&gt;&lt;br /&gt;
 - Practice Fishbowl Discussion&lt;br /&gt;
@@ -433,24 +433,24 @@ B: W, 8/26&lt;br /&gt;
 &lt;h2 id=&#34;phase-2-walk&#34;&gt;Phase 2, Walk&lt;/h2&gt;
 &lt;table&gt;
 &lt;colgroup&gt;
-&lt;col width=&#34;6%&#34; /&gt;
-&lt;col width=&#34;13%&#34; /&gt;
-&lt;col width=&#34;80%&#34; /&gt;
+&lt;col style=&#34;width: 5%&#34; /&gt;
+&lt;col style=&#34;width: 13%&#34; /&gt;
+&lt;col style=&#34;width: 80%&#34; /&gt;
 &lt;/colgroup&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
-&lt;th align=&#34;right&#34;&gt;Wk&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Meetings&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Topic&lt;/th&gt;
+&lt;th style=&#34;text-align: right;&#34;&gt;Wk&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Meetings&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Topic&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 8/31&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 8/31&lt;br /&gt;
 B: W, 9/02&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Reading Scientific Research&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Reading Scientific Research&lt;br /&gt;
 Plagiarism &amp;amp; Intellectual Property&lt;br /&gt;
 &lt;em&gt;Complete the following by 9/07&lt;/em&gt;&lt;br /&gt;
 - &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion&lt;/a&gt; Sign-up, Phase 2&lt;br /&gt;
@@ -459,11 +459,11 @@ Plagiarism &amp;amp; Intellectual Property&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;4&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 9/07&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 9/07&lt;br /&gt;
 B: W, 9/09&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/interpersonal-the-self-1/&#34; title=&#34;Lesson Plan&#34;&gt;Interpersonal Comm. and the Self&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/visual-aid/interpersonal-the-self-1/&#34; title=&#34;Visual Aid - Johari Window&#34;&gt;Visual Aid&lt;/a&gt;)&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/interpersonal-the-self-1/&#34; title=&#34;Lesson Plan&#34;&gt;Interpersonal Comm. and the Self&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/visual-aid/interpersonal-the-self-1/&#34; title=&#34;Visual Aid - Johari Window&#34;&gt;Visual Aid&lt;/a&gt;)&lt;br /&gt;
 &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/perceiving-others-1/&#34; title=&#34;Lesson Plan&#34;&gt;Perceiving Others&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/handout/attribution-activity-robinson-2017-CT.pdf&#34; title=&#34;Handout - Attribution Theory Activity&#34;&gt;Handout&lt;/a&gt;, &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/visual-aid/perceiving-others-1/&#34; title=&#34;Visual Aid - Attribution Theory&#34;&gt;Visual Aid&lt;/a&gt;)&lt;br /&gt;
 &lt;!-- drill 12&amp;13 --&gt; &lt;em&gt;Complete the following by 9/14&lt;/em&gt;&lt;br /&gt;
 - Activity 7: Interpersonal Comm. and the Self&lt;br /&gt;
@@ -471,22 +471,22 @@ B: W, 9/09&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;5&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 9/14&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 9/14&lt;br /&gt;
 B: W, 9/16&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion 1 &amp;amp; 2&lt;/a&gt;&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion 1 &amp;amp; 2&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion 3 &amp;amp; 4&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;Complete the following by 9/21&lt;/em&gt;&lt;br /&gt;
 - Fishbowl Discussion Response, Phase 2&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;6&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 9/21&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 9/21&lt;br /&gt;
 B: W, 9/23&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Student-led Review&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Student-led Review&lt;br /&gt;
 Exam 1&lt;br /&gt;
 &lt;em&gt;Complete the following by 9/28&lt;/em&gt;&lt;br /&gt;
 - Literature Review Step 1 (Annotated Bibliography &amp;amp; Outline)&lt;br /&gt;
@@ -497,24 +497,24 @@ Exam 1&lt;br /&gt;
 &lt;h2 id=&#34;phase-3-run&#34;&gt;Phase 3, Run&lt;/h2&gt;
 &lt;table&gt;
 &lt;colgroup&gt;
-&lt;col width=&#34;6%&#34; /&gt;
-&lt;col width=&#34;13%&#34; /&gt;
-&lt;col width=&#34;80%&#34; /&gt;
+&lt;col style=&#34;width: 5%&#34; /&gt;
+&lt;col style=&#34;width: 13%&#34; /&gt;
+&lt;col style=&#34;width: 80%&#34; /&gt;
 &lt;/colgroup&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
-&lt;th align=&#34;right&#34;&gt;Wk&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Meetings&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Topic&lt;/th&gt;
+&lt;th style=&#34;text-align: right;&#34;&gt;Wk&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Meetings&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Topic&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;7&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 9/28&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 9/28&lt;br /&gt;
 B: W, 9/30&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/language-1/&#34; title=&#34;Lesson Plan&#34;&gt;Language&lt;/a&gt;&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/language-1/&#34; title=&#34;Lesson Plan&#34;&gt;Language&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/nonverbal-communication-1/&#34; title=&#34;Lesson Plan&#34;&gt;Nonverbal Communication&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/handout/nonverbal-interaction-script.pdf&#34; title=&#34;Handout - Nonverbal Interaction Script&#34;&gt;Handout&lt;/a&gt;)&lt;br /&gt;
 &lt;em&gt;Complete the following by 10/05&lt;/em&gt;&lt;br /&gt;
 - &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion&lt;/a&gt; Sign-up, Phase 3&lt;br /&gt;
@@ -523,11 +523,11 @@ B: W, 9/30&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;8&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 10/05&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 10/05&lt;br /&gt;
 B: W, 10/07&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/listening-1/&#34; title=&#34;Lesson Plan&#34;&gt;Listening: Receiving and Responding&lt;/a&gt;&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/listening-1/&#34; title=&#34;Lesson Plan&#34;&gt;Listening: Receiving and Responding&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/emotions-1/&#34; title=&#34;Lesson Plan&#34;&gt;Emotions&lt;/a&gt;, (&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/visual-aid/emotions-1/&#34; title=&#34;Visual Aid - Emotions&#34;&gt;Visual Aid&lt;/a&gt;)&lt;br /&gt;
 &lt;em&gt;Complete the following by 10/12&lt;/em&gt;&lt;br /&gt;
 - Activity 11: Listening: Receiving and Responding&lt;br /&gt;
@@ -535,22 +535,22 @@ B: W, 10/07&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;9&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 10/12&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 10/12&lt;br /&gt;
 B: W, 10/14&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion 5 &amp;amp; 6&lt;/a&gt;&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion 5 &amp;amp; 6&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion 7 &amp;amp; 8&lt;/a&gt;&lt;br /&gt;
 &lt;!-- drill 16-18 --&gt; &lt;em&gt;Complete the following by 10/19&lt;/em&gt;&lt;br /&gt;
 - Fishbowl Discussion Response, Phase 3&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;10&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 10/19&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 10/19&lt;br /&gt;
 B: W, 10/21&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Student-led Review&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Student-led Review&lt;br /&gt;
 Exam 2&lt;br /&gt;
 &lt;em&gt;Complete the following by 10/26&lt;/em&gt;&lt;br /&gt;
 - Literature Review Step 2 (Complete First Draft)&lt;br /&gt;
@@ -561,24 +561,24 @@ Exam 2&lt;br /&gt;
 &lt;h2 id=&#34;phase-4-fly&#34;&gt;Phase 4, Fly&lt;/h2&gt;
 &lt;table&gt;
 &lt;colgroup&gt;
-&lt;col width=&#34;6%&#34; /&gt;
-&lt;col width=&#34;13%&#34; /&gt;
-&lt;col width=&#34;80%&#34; /&gt;
+&lt;col style=&#34;width: 5%&#34; /&gt;
+&lt;col style=&#34;width: 13%&#34; /&gt;
+&lt;col style=&#34;width: 80%&#34; /&gt;
 &lt;/colgroup&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
-&lt;th align=&#34;right&#34;&gt;Wk&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Meetings&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Topic&lt;/th&gt;
+&lt;th style=&#34;text-align: right;&#34;&gt;Wk&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Meetings&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Topic&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;11&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 10/26&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;11&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 10/26&lt;br /&gt;
 B: W, 10/28&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/interpersonal-dynamics-1/&#34; title=&#34;Lesson Plan&#34;&gt;Dynamics of Interpersonal Relationships&lt;/a&gt;&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/lesson-plan/interpersonal-dynamics-1/&#34; title=&#34;Lesson Plan&#34;&gt;Dynamics of Interpersonal Relationships&lt;/a&gt;&lt;br /&gt;
 Communication in Close Relationships&lt;br /&gt;
 &lt;em&gt;Complete the following by 11/02&lt;/em&gt;&lt;br /&gt;
 - &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion&lt;/a&gt; Sign-up, Phase 4&lt;br /&gt;
@@ -587,11 +587,11 @@ Communication in Close Relationships&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;12&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 11/02&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;12&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 11/02&lt;br /&gt;
 B: W, 11/04&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Communication Climate&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Communication Climate&lt;br /&gt;
 Managing Conflict&lt;br /&gt;
 &lt;!-- drill 5-8 --&gt; &lt;em&gt;Complete the following by 11/09&lt;/em&gt;&lt;br /&gt;
 - Activity 15: Communication Climate&lt;br /&gt;
@@ -599,22 +599,22 @@ Managing Conflict&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;13&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 11/09&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;13&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 11/09&lt;br /&gt;
 B: W, 11/11&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion 9 &amp;amp; 10&lt;/a&gt;&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion 9 &amp;amp; 10&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/&#34; title=&#34;Assignment description&#34;&gt;Fishbowl Discussion 11 &amp;amp; 12&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;Complete the following by 11/16&lt;/em&gt;&lt;br /&gt;
 - Fishbowl Discussion Response, Phase 4&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;14&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A: M, 11/16&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;14&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A: M, 11/16&lt;br /&gt;
 B: W, 11/18&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/literature-review/&#34; title=&#34;Assignment description&#34;&gt;Literature Review Presentations&lt;/a&gt;&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/literature-review/&#34; title=&#34;Assignment description&#34;&gt;Literature Review Presentations&lt;/a&gt;&lt;br /&gt;
 Course Evaluations, Make-up/Review&lt;br /&gt;
 &lt;em&gt;Complete the following by 11/23&lt;/em&gt;&lt;br /&gt;
 - Literature Review Step 3 (Complete Final Draft)&lt;br /&gt;
@@ -622,10 +622,10 @@ Course Evaluations, Make-up/Review&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;right&#34;&gt;--&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;M, 11/30&lt;br /&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;–&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;M, 11/30&lt;br /&gt;
 &lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Assessment Post-test&lt;br /&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Assessment Post-test&lt;br /&gt;
 - Final Exam, 10:00 to 11:50 am, US Eastern Time (Tentative)&lt;br /&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -657,134 +657,94 @@ Course Evaluations, Make-up/Review&lt;br /&gt;
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://kurtisdmiller.com/course/interpersonal/assignment/fishbowl-discussion/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt; Students will choose one Communication Theory mentioned in
-their chosen chapter, read two original articles which use this theory,
-and engage in discussion as part of a small group on this subject in
-front of the class.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Students are familiarized with Communication as a Social
-Science and the process of knowledge generation behind the theories
-presented in their textbook.&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt; Students will choose one Communication Theory mentioned in their chosen chapter, read two original articles which use this theory, and engage in discussion as part of a small group on this subject in front of the class.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Students are familiarized with Communication as a Social Science and the process of knowledge generation behind the theories presented in their textbook.&lt;/p&gt;
 &lt;!--
 Target Length:**
 --&gt;
-
 &lt;p&gt;&lt;strong&gt;Due:&lt;/strong&gt; According to the date you signed up for.&lt;/p&gt;
-
 &lt;h1 id=&#34;detailed-description&#34;&gt;Detailed Description&lt;/h1&gt;
-
 &lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
-
-&lt;p&gt;Select a chapter from the textbook and choose one Interpersonal
-Communication theory presented in that chapter. Select two original
-research articles from the Communication literature which use that
-theory. Upload PDF copies of these articles to Moodle. Read and
-&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/annotating-articles/&#34;&gt;annotate&lt;/a&gt; both
-articles. Turn in printed out &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/annotating-articles/&#34;&gt;annotated
-copies&lt;/a&gt; of the
-sources you chose. Provide a short summary of the articles in class and
-participate in discussion with the panel about your chosen papers, how
-they connect with the other papers presented, what they say about the
-topic of the class meeting, and how what we can learn from the papers
-can be applied in daily life.&lt;/p&gt;
-
+&lt;p&gt;Select a chapter from the textbook and choose one Interpersonal Communication theory presented in that chapter. Select two original research articles from the Communication literature which use that theory. You may choose to use articles that are referenced in your textbook. Prepare a complete one page article summary sheet for each article. Participate in a discussion with the panel about the topic of the class meeting. Discuss how what you read connects with what other people have read and what we can learn from these to apply to our daily lives.&lt;/p&gt;
 &lt;h2 id=&#34;limitations&#34;&gt;Limitations&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Both articles you choose must have a &amp;ldquo;Results&amp;rdquo; section.&lt;/li&gt;
+&lt;li&gt;Both articles you choose must have a “Results” section.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;format&#34;&gt;Format&lt;/h2&gt;
-
-&lt;p&gt;Each presenter will provide a brief overview of the contents of the
-articles they chose. Presenters will then engage in discussion about
-their articles and how they inform one another. Questions from the
-audience are encouraged, but generally should not start until all of the
-presenters have had a chance to contribute to the overall discussion.&lt;/p&gt;
-
+&lt;p&gt;The format should be a discussion, not a series of presentations. Students doing the fishbowl discussion are encouraged to comment on and ask questions about what other students say. Questions from the audience are encouraged, but generally should not start until all of the presenters have had a chance to contribute to the overall discussion.&lt;/p&gt;
 &lt;h1 id=&#34;grading&#34;&gt;Grading&lt;/h1&gt;
-
-&lt;p&gt;This project is graded out of 100 points.&lt;/p&gt;
-
+&lt;p&gt;This project is graded out of 20 points.&lt;/p&gt;
 &lt;h2 id=&#34;fishbowl-discussion-rubric&#34;&gt;Fishbowl Discussion Rubric&lt;/h2&gt;
-
 &lt;table&gt;
+&lt;colgroup&gt;
+&lt;col style=&#34;width: 18%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;/colgroup&gt;
 &lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;20 points&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;15 points&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;10 points&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;5 points&lt;/th&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;4 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;3 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;2 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;0 points&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Contributions&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Makes many substantive contributions. Contributions clearly connected to discussion.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Makes at least 3 substantive contributions. Connections to discussion may be tangential.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Makes at least 1 substantive contribution. Speaker may not be able to connect to discussion.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;No contributions are made.&lt;/td&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Contributions&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Makes many substantive contributions. Contributions clearly connected to discussion.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Makes at least 3 substantive conributions. Connections to discussion may be tangential.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Makes at least 1 substantive contribution. Speaker may not be able to connect to discussion.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;No contributions are made.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Reasoning and Evidence&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Uses strong evidence from text, with accurate citation.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Uses evidence to support some points, most with citation.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Uses minimal evidence or evidence is not cited.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;No evidence is presented.&lt;/td&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Reasoning and Evidence&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Uses strong evidence from text, with accurate citation.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Uses evidence to support some points, most with citation.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Uses minimal evidence or evidence is not cited.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;No evidence is presented.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Participation&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Encourages other participants. Does not interrupt or monopolize discussion.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Avoids disrupting others. Generally does not interrupt or monopolize discussion.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Disrupts other participants by interrupting frequently or monopolizing discussion.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Does not participate.&lt;/td&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Participation&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Encourages other participants. Does not interrupt or monopolize discussion.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Avoids disrupting others. Generally does not interrupt or monopolize discussion.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Disrupts other participants by interrupting frequently or or monopolizing discussion.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Does not participate.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Delivery&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Speaks clearly, concisely, understandably, and appropriately.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Occasionally difficult to hear or understand.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Difficult to hear and/or understand, and/or significantly inappropriate.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Does not speak.&lt;/td&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Delivery&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Speaks clearly, concisely, understandably, and appropriately.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Occasionally difficult to hear or understand.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Difficult to hear and/or understand, and/or significantly inappropriate.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Does not speak.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Preparation&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Annotated print copies of articles turned in and PDF copies of both articles uploaded to Moodle.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;One annotated print copy not turned in or one PDF copy not uploaded.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;No annotated copies turned in, no PDF copies uploaded, or only one article used.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;None of these complete at beginning of discussion period.&lt;/td&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Preparation&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;One page article summary sheet is complete and thoughtful. Reference uses APA style correctly.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;One page article summary sheet is complete. Minor errors in APA style for reference entry.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;One page article summary sheet is incomplete. Reference entry is missing most information.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;One page article summary sheet missing nearly all information.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
+&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/assignment/example-summary-sheet.docx&#34; title=&#34;Example One Page Article Summary&#34;&gt;Example one page article summary&lt;/a&gt;&lt;/p&gt;
 &lt;!--
-Examples
-========
+# Acknowledgments
 --&gt;
-
 &lt;!--
-Acknowledgments
-===============
+# References and End Notes
+
+[^student-permission]: Many thanks to the students who have given me permission to use examples based on their work. Student consent forms are on file.
 --&gt;
-
-&lt;!--
-References and End Notes
-========================
-
---&gt;
-
 &lt;!-- Previous Versions:
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v1.01 | 2020-08-19 | Revised rubric language and document structure, using a &#34;one page article summary&#34; as a lead-in to annotated bibliographies
   v1.00 | 2019-08-08 | Changes for Hugo compatibility, no longer contract based
   v0.01 | 2018-03-20 | Refined Grading Scale
   v0.00 | 2018-03-05 | Initial Version
@@ -799,188 +759,188 @@ References and End Notes
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://kurtisdmiller.com/course/interpersonal/assignment/literature-review/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt; Students will identify a research question of personal
-interest which can be addressed by one of the Interpersonal Communication
-theories identified in the class. Students will write a literature review
-which draws on available Interpersonal Communication research to support
-that research question. This assignment is the culmination assignment of
-the course.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; The literature review demonstrates your familiarity with one
-of the major theories used in Interpersonal Communication research and
-your understanding of Communication as one of the social sciences. It also
-demonstrates your ability to conduct research using scholarly sources and
-structure evidence to support an argument.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Target Length:&lt;/strong&gt; 1,250 to 1,750 words in length, not including
-references (roughly 5-7 filled content pages).&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt; Students will identify a research question of personal interest which can be addressed by one of the Interpersonal Communication theories identified in the class. Students will write a literature review which draws on available Interpersonal Communication research to support that research question. This assignment is the culmination assignment of the course.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; The literature review demonstrates your familiarity with one of the major theories used in Interpersonal Communication research and your understanding of Communication as one of the social sciences. It also demonstrates your ability to conduct research using scholarly sources and structure evidence to support an argument.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Target Length:&lt;/strong&gt; 1,250 to 1,750 words in length, not including references (5-7 filled content pages, double-spaced, 12 point, Times New Roman).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Due&lt;/strong&gt;: See the course calendar for your section&lt;/p&gt;
-
 &lt;h1 id=&#34;detailed-description&#34;&gt;Detailed Description&lt;/h1&gt;
-
 &lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
-
-&lt;p&gt;Students identify a research question within the field of Interpersonal
-Communication and prepare a literature review to either 1) answer that
-question or 2) show that the current literature in Interpersonal
-Communication does not have a satisfactory answer to the question.&lt;/p&gt;
-
+&lt;p&gt;Students identify a research question within the field of Interpersonal Communication and prepare a literature review. The goal is to update the literature review section of an older article to include the newer work you would have to include if you were replicating their work.&lt;/p&gt;
 &lt;h2 id=&#34;limitations&#34;&gt;Limitations&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;You may not choose the same topic as another student. Topics are
-reserved through Moodle on a first-post basis.&lt;/li&gt;
+&lt;li&gt;You may not choose the same topic as another student. Topics are reserved through Canvas on a first-post basis.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;format&#34;&gt;Format&lt;/h2&gt;
-
-&lt;p&gt;Your paper, including citations, must be formatted according to APA 6th
-Edition guidelines.&lt;/p&gt;
-
+&lt;p&gt;Your paper, including citations, must be formatted according to APA 7th Edition guidelines.&lt;/p&gt;
 &lt;h1 id=&#34;grading&#34;&gt;Grading&lt;/h1&gt;
-
-&lt;p&gt;This project is graded out of 400 points. 320 points come from the written
-paper and 80 points come from your in-class presentation.&lt;/p&gt;
-
+&lt;p&gt;This project is graded out of 200 points. 160 points come from the final written paper, 20 points come from drafting, and 20 points come from your in-class presentation.&lt;/p&gt;
 &lt;h2 id=&#34;paper-rubric&#34;&gt;Paper Rubric&lt;/h2&gt;
-
-&lt;p&gt;The written portion of this assignment is worth 320 points.&lt;/p&gt;
-
+&lt;p&gt;The written portion of this assignment is worth 160 points.&lt;/p&gt;
 &lt;table&gt;
+&lt;colgroup&gt;
+&lt;col style=&#34;width: 18%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;/colgroup&gt;
 &lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;40 points&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;30 points&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;20 points&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;10 points&lt;/th&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;20 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;15 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;10 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;5 points&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Articles&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Information is gathered from 5–9 research-based sources.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Information is gathered from 5–9 sources.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Information is gathered from fewer than 5 sources.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Information is gathered from a single source.&lt;/td&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Articles&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Information is gathered from 5–9 research-based sources.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Information is gathered from 5–9 sources.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Information is gathered from fewer than 5 sources.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Information is gathered from a single source.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Theme&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Well organized, demonstrates logical sequencing and structure.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Well organized, but demonstrates illogical sequencing or structure.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Weakly organized with no logical sequencing or structure.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;No organization, sequencing, or structure.&lt;/td&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Theme&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Well organized. Clear structure that places sources into a conversation.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Well organized, but demonstrates serial sequencing or structure.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Weakly organized with no logical sequencing or structure.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;No organization, sequencing, or structure.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Background / Foundation&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Detailed conclusions are reached from the evidence offered.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Conclusions are reached from the evidence offered.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;There is some indication of conclusions from the evidence offered.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;No conclusions are made from the evidence offered.&lt;/td&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Background / Foundation&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Detailed conclusions are reached from the evidence offered.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Conclusions are reached from the evidence offered.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;There is some indication of conclusions from the evidence offered.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;No conclusions are made from the evidence offered.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Research Question&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Research question(s) are formed through the literature review and clearly stated.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Research question(s) are formed through the literature review.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Research question(s) were not formed but could be formed through the literature review.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Research question(s) were not formed and are not apparent from the literature review.&lt;/td&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Research Question&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Research question(s) are formed through the literature review and clearly stated.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Research question(s) are formed through the literature review.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Research question(s) were not formed but could be formed through the literature review.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Research question(s) were not formed and are not apparent from the literature review.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Reference Section &amp;amp; In-text Citations&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Information is cited properly and in APA format.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Information is cited properly.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Information is cited, but has errors.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Information is not cited or is cited incorrectly.&lt;/td&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Reference Section &amp;amp;&lt;br /&gt;
+In-text Citations&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Information is cited properly and in APA 7th Edition format.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Information is cited properly.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Information is cited, but has errors.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Information is not cited or is cited incorrectly.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Length&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Adheres to 1,250–1,750 word criteria.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Exceeds or does not meet word criteria by 125 words or less.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Exceeds or does not meet word criteria by 125–250 words.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Exceeds or does not meet word criteria by more than 250 words.&lt;/td&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Length&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Adheres to 1,250–1,750 words of content. Minimal use of quotes.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Exceeds or does not meet words of content by 125 words or fewer. Minimal use of quotes.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Exceeds or does not meet words of content by 125-250 words. Quotes excessively.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Exceeds or does not meet words of content by 250 words.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Format&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Font, spacing, and APA format are correct.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Font and spacing, font and APA, or spacing and APA are correct.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Font, spacing, or APA format is correct.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Font, spacing, and APA format are incorrect.&lt;/td&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Format&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Font, spacing, and APA format are correct. are correct.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Font and spacing, font and APA, or spacing and APA&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Font, spacing, or APA format is correct.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Font, spacing, and APA format are incorrect.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Grammar&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;There are fewer than 2 distracting grammatical errors.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;There are 2 distracting grammatical errors.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;There are 3 distracting grammatical errors.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;There are 4 or more distracting grammatical errors.&lt;/td&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Grammar&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;There are fewer than 3 distracting grammatical errors.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;There are 3 distracting grammatical errors.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;There are 4 distracting grammatical errors.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;There are 5 or more distracting grammatical errors.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
 &lt;h2 id=&#34;presentation-rubric&#34;&gt;Presentation Rubric&lt;/h2&gt;
-
-&lt;p&gt;The presentation portion of this assignment is worth 80 points.&lt;/p&gt;
-
+&lt;p&gt;The presentation portion of this assignment is worth 20 points.&lt;/p&gt;
 &lt;table&gt;
+&lt;colgroup&gt;
+&lt;col style=&#34;width: 18%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;/colgroup&gt;
 &lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;40 points&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;30 points&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;20 points&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;10 points&lt;/th&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;10 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;8 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;5 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;0 points&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Presentation&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Paper is summarized clearly, completely, in an engaging presentation.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Paper is summarized accurately and completely.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Significant portions of the project are not discussed.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;No presentation of substance provided.&lt;/td&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Presentation&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Paper is summarized clearly, completely, in an engaging presentation.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Paper is summarized accurately and completely.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Significant portions of the project are not discussed.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;No presentation of substance provided.&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Questions&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Responses to audience questions are clear, complete, and engaging.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Responses to audience questions are generally accurate and understandable.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Responses to audience questions omit significant information.&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Student is unable to respond to questions from the audience.&lt;/td&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Questions&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Responses to audience questions are clear, complete, and engaging.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Responses to audience questions are generally accurate and understandable.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Responses to audience questions omit significant information.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Student is unable to respond to questions from the audience.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
+&lt;h2 id=&#34;draft-rubric&#34;&gt;Draft Rubric&lt;/h2&gt;
+&lt;p&gt;The drafts of this assignment contribute 20 points.&lt;/p&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col style=&#34;width: 18%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;col style=&#34;width: 20%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;10 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;8 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;5 points&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;0 points&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Annotated Bibliography and Outline&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Complete Annotated Bib. Outline is appropriate and in complete topic sentences.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Nearly all sources in Annotated Bib. Outline nearly complete.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;At least half of required sources in Annotated Bib. Outline includes topic areas only, not sentences.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Not submitted or less than half complete.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;First Draft&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;A complete, full-length version of the paper.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;First draft is nearly complete or full-length.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;First draft is at least half-length.&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;First draft is less than half-length.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;!--
-Examples
-========
+# Examples
 --&gt;
-
 &lt;!--
-Acknowledgments
-===============
+# Acknowledgments
 --&gt;
-
 &lt;!--
-References and End Notes
-========================
+# References and End Notes
 
+[^student-permission]: Many thanks to the students who have given me permission to use examples based on their work. Student consent forms are on file.
 --&gt;
-
 &lt;!-- Previous Versions:
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v1.01 | 2020-08-19 | Updated rubrics and assignment
   v1.00 | 2019-08-08 | Changes for Hugo Compatibility, eliminated contract grading
   v0.00 | 2018-03-05 | Initial Version
 
@@ -1002,6 +962,105 @@ References and End Notes
 &lt;li&gt;2018 Spring, &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/archived-exams/COMM210-2018S-exam3-key.pdf&#34;&gt;Midterm Exam 2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;2018 Spring, &lt;a href=&#34;https://kurtisdmiller.com/course/interpersonal/archived-exams/COMM210-2018S-examF-key.pdf&#34;&gt;Final Exam&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Communication as a Field of Study</title>
+      <link>https://kurtisdmiller.com/course/interpersonal/lesson-plan/communication-as-a-field-of-study/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtisdmiller.com/course/interpersonal/lesson-plan/communication-as-a-field-of-study/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Course(s) Used:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Public Speaking&lt;/li&gt;
+&lt;li&gt;Interpersonal Communication&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Goals and Objectives:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Students understand the organization of the course.&lt;/li&gt;
+&lt;li&gt;Students know how to succeed in the course.&lt;/li&gt;
+&lt;li&gt;Students are introduced and have contact info for peers in the course.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Rationale:&lt;/strong&gt; This lesson orients students to communication as a requirement at this university, the degree programs available, the importance of studying communication as part of the general education curriculum, and the ways to satisfy the general education requirement.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formative Assessment:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download the activity document from the Learning Management System&lt;/li&gt;
+&lt;li&gt;Conduct an interview with a friend or family member who has been active in their career for at least 5 years as a full-time worker&lt;/li&gt;
+&lt;li&gt;Record the answers and upload the document to the Activity Dropbox for this week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;materials-needed&#34;&gt;Materials Needed&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Materials:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Classroom computer and projector&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;outline-of-the-lesson&#34;&gt;Outline of the Lesson&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Communication as a General Education Requirement
+
+&lt;ol&gt;
+&lt;li&gt;Public Speaking&lt;/li&gt;
+&lt;li&gt;Interpersonal Communication&lt;/li&gt;
+&lt;li&gt;Team &amp;amp; Small Group Communication&lt;/li&gt;
+&lt;li&gt;Argumentation &amp;amp; Debate&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Communication Programs at Tusculum University
+
+&lt;ol&gt;
+&lt;li&gt;BA in English: Communication &amp;amp; Public Relations&lt;/li&gt;
+&lt;li&gt;AA in General Studies: Communication&lt;/li&gt;
+&lt;li&gt;Minor in Communication&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Formative Assessment
+
+&lt;ol&gt;
+&lt;li&gt;Students conduct an interview with a friend or family member who is established in a career (at least 5 years full-time experience)&lt;/li&gt;
+&lt;li&gt;Students submit the answers to the questions&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Review &amp;amp; Lesson closing&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;limitations&#34;&gt;Limitations&lt;/h1&gt;
+
+&lt;p&gt;This activity is difficult to do in a classroom setting, but works well in asynchronous online classes.&lt;/p&gt;
+
+&lt;!--
+Debrief
+=======
+--&gt;
+
+&lt;h1 id=&#34;variations-and-accommodations&#34;&gt;Variations and Accommodations&lt;/h1&gt;
+
+&lt;p&gt;Follow guidance from local accommodation authorities.&lt;/p&gt;
+
+&lt;!-- End Notes --&gt;
+
+&lt;!-- Previous Versions:
+
+   v#   | Date       | Modifications
+  ------|------------|:--------------
+  v0.00 | 2020-08-16 | Initial Version
+
+--&gt;
 </description>
     </item>
     
@@ -1198,8 +1257,15 @@ Debrief
 &lt;li&gt;Students are familiar with the Literature Review assignment&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Rationale:&lt;/strong&gt; This lesson ensures that students are familiar with the two
-major assignments in the course.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rationale:&lt;/strong&gt; This lesson ensures that students are familiar with the two major assignments in the course.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formative Assessment:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download the activity document from the Learning Management System&lt;/li&gt;
+&lt;li&gt;Answer the questions in the document about these two assignments&lt;/li&gt;
+&lt;li&gt;Upload the document to the Activity Dropbox for this week&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;materials-needed&#34;&gt;Materials Needed&lt;/h1&gt;
 
@@ -1223,16 +1289,36 @@ major assignments in the course.&lt;/p&gt;
 &lt;li&gt;Overview of Fishbowl Discussion assignment
 
 &lt;ol&gt;
-&lt;li&gt;Annotating articles&lt;/li&gt;
+&lt;li&gt;Purpose of this assignment:
+
+&lt;ol&gt;
+&lt;li&gt;Familiarization with reading scientific research&lt;/li&gt;
+&lt;li&gt;Supports Literature Review assignment&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Components
+
+&lt;ol&gt;
+&lt;li&gt;One page article summaries&lt;/li&gt;
 &lt;li&gt;Discussion portion of assignment&lt;/li&gt;
 &lt;li&gt;Class questions&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 &lt;li&gt;Overview of Literature Review assignment
+
+&lt;ol&gt;
+&lt;li&gt;Purpose of this assignment:
+
+&lt;ol&gt;
+&lt;li&gt;A foundational paper for majors, who will conduct a replication study as their final project&lt;/li&gt;
+&lt;li&gt;Expose students to the process of scientific research&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Components
 
 &lt;ol&gt;
 &lt;li&gt;Paper portion of assignment&lt;/li&gt;
 &lt;li&gt;Presentation portion of assignment&lt;/li&gt;
 &lt;li&gt;Class questions&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
 &lt;li&gt;How to use these two assignments together&lt;/li&gt;
 &lt;li&gt;Hands on group work
@@ -1245,8 +1331,8 @@ major assignments in the course.&lt;/p&gt;
 
 &lt;h1 id=&#34;limitations&#34;&gt;Limitations&lt;/h1&gt;
 
-&lt;p&gt;This lesson requires student participation and buy-in. Finding a topic for
-the practice discussion on the same day is a challenge.&lt;/p&gt;
+&lt;p&gt;This lesson requires student participation and buy-in.
+Finding a topic for the practice discussion on the same day is a challenge.&lt;/p&gt;
 
 &lt;!--
 Debrief
@@ -1263,6 +1349,7 @@ Debrief
 
    v#   | Date       | Modifications
   ------|:-----------|:-------------
+  v0.01 | 2020-08-16 | Pandemic activity changes
   v0.00 | 2019-08-22 | Initial Version
 
 --&gt;
@@ -1280,7 +1367,6 @@ Debrief
 &lt;p&gt;&lt;strong&gt;Course(s) Used:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Public Speaking&lt;/li&gt;
 &lt;li&gt;Interpersonal Communication&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1323,7 +1409,7 @@ Debrief
 &lt;li&gt;Textbook&lt;/li&gt;
 &lt;li&gt;Course Structure&lt;/li&gt;
 &lt;li&gt;Attendance&lt;/li&gt;
-&lt;li&gt;Moodle&lt;/li&gt;
+&lt;li&gt;Learning Management System&lt;/li&gt;
 &lt;li&gt;Website&lt;/li&gt;
 &lt;li&gt;Grading&lt;/li&gt;
 &lt;li&gt;How to Succeed&lt;/li&gt;
@@ -1360,6 +1446,7 @@ Debrief
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v0.01 | 2020-08-17 | Moodle is dead
   v0.00 | 2019-08-07 | Initial Version
 
 --&gt;
