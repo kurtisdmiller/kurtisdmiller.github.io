@@ -1773,7 +1773,7 @@ You will reply to the video linked by your partner with several paragraphs addre
 
 &lt;p&gt;The required paragraphs are listed below.
 Each should contain multiple sentences.
-The [Speech Critique][] assignment description includes more detail about topics that you might want to address within each paragraph, if you are having trouble.&lt;/p&gt;
+The [Speech Critique][] assignment description includes more detail about&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Discuss organization of the presentation&lt;/li&gt;
@@ -1852,6 +1852,12 @@ a well-formatted outline.
 # Acknowledgments
 
 [^student-permission] Many thanks to the students who have given me permission to use examples based on their work. Student consent forms are on file.
+--&gt;
+
+&lt;!--
+# Links
+
+
 --&gt;
 
 &lt;!-- Previous Versions:
