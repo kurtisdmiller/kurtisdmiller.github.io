@@ -4052,10 +4052,8 @@ Students may be placed in groups strategically if needed.&lt;/p&gt;
 &lt;li&gt;Students know what to consider before using existing charts and graphs.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Rationale:&lt;/strong&gt; Presenting numerical data, such as statistical evidence
-visually is one of the best uses of presentation aids. People can much
-more easily understand data when it is presented in a visual format rather
-than as a list of more abstract numbers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rationale:&lt;/strong&gt; Presenting numerical data, such as statistical evidence visually is one of the best uses of presentation aids.
+People can much more easily understand data when it is presented in a visual format rather than as a list of more abstract numbers.&lt;/p&gt;
 
 &lt;h1 id=&#34;materials-needed&#34;&gt;Materials Needed&lt;/h1&gt;
 
@@ -4107,17 +4105,6 @@ than as a list of more abstract numbers.&lt;/p&gt;
 &lt;li&gt;Using Infographics&lt;/li&gt;
 &lt;li&gt;Relying solely on semantic color&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:colorblind&#34;&gt;&lt;a href=&#34;#fn:colorblind&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Hands-on group work
-
-&lt;ul&gt;
-&lt;li&gt;Students work in teams to locate create graphs and charts in PowerPoint. Students use US Mortality data located online from the &lt;a href=&#34;http://www.cdc.gov/nchs/nvss/deaths.htm&#34; target=&#34;_blank&#34;&gt;CDC&lt;/a&gt;. Students should create 3 assertion-evidence structure slides which use graphs and charts based on these data as their visual evidence. There should be one slide which uses a bar graph or histogram, a second which uses a pie graph, and a third which uses a line graph. They use personal computers to create these presentation aids and share them with the class when complete. Questions groups should answer in front of the class include:
-
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;What did you find most challenging about this project?&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;What aspect of these charts and graphs?&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;How would you cite these data?&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Using existing charts and graphs is like using images
 
 &lt;ol&gt;
@@ -4133,23 +4120,40 @@ than as a list of more abstract numbers.&lt;/p&gt;
 &lt;li&gt;Contextualize numbers for your audience&lt;/li&gt;
 &lt;li&gt;Use round numbers unless precision is &lt;em&gt;required&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Face-to-face Formative Assessment:
+
+&lt;ul&gt;
+&lt;li&gt;Students work in teams to locate create graphs and charts in PowerPoint. Students use US Mortality data located online from the &lt;a href=&#34;http://www.cdc.gov/nchs/nvss/deaths.htm&#34; target=&#34;_blank&#34;&gt;CDC&lt;/a&gt;. Students should create 3 assertion-evidence structure slides which use graphs and charts based on these data as their visual evidence. There should be one slide which uses a bar graph or histogram, a second which uses a pie graph, and a third which uses a line graph. They use personal computers to create these presentation aids and share them with the class when complete. Questions groups should answer in front of the class include:
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;What did you find most challenging about this project?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;What aspect of these charts and graphs?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;How would you cite these data?&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hybrid/Online Formative Assessment:
+
+&lt;ol&gt;
+&lt;li&gt;Download the activity document from the Learning Management System&lt;/li&gt;
+&lt;li&gt;Create the required slides, providing appropriate citation&lt;/li&gt;
+&lt;li&gt;Upload the document to the activity on the Learning Management System&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 &lt;li&gt;Lesson closing&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&#34;limitations&#34;&gt;Limitations&lt;/h1&gt;
 
-&lt;p&gt;This lesson requires a classroom computer, a projector, and Internet
-access for demonstration. The students will need to bring their own
-computers if the class does not have access to a computer lab.&lt;/p&gt;
+&lt;p&gt;This lesson requires a classroom computer, a projector, and Internet access for demonstration.
+The students will need to bring their own computers if the class does not have access to a computer lab.&lt;/p&gt;
 
 &lt;!--
-Debrief
-=======
+# Debrief
 --&gt;
 
 &lt;h1 id=&#34;variations-and-accommodations&#34;&gt;Variations and Accommodations&lt;/h1&gt;
 
-&lt;p&gt;Follow guidance from local accommodation authorities. Students for whom technology usage will present an unreasonable burden be accommodated on an individual basis. Students may be placed in groups strategically if needed.&lt;/p&gt;
+&lt;p&gt;Follow guidance from local accommodation authorities.
+Students for whom technology usage will present an unreasonable burden be accommodated on an individual basis. Students may be placed in groups strategically if needed.&lt;/p&gt;
 
 &lt;!-- End Notes --&gt;
 
@@ -4157,6 +4161,7 @@ Debrief
 
    v#   | Date       | Modifications
   ------|------------|:---------------
+  v0.03 | 2020-09-13 | updated format, and for Canvas. Added formative assessment
   v0.02 | 2019-08-07 | Changes for Hugo Compatibility
   v0.01 | 2017-10-03 | updated to include timelines and color vision deficiency numbers
   v0.00 |          - | Initial Version
@@ -4337,12 +4342,7 @@ Debrief
 &lt;li&gt;Students come out of their shell and present passionately.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Rationale:&lt;/strong&gt; The speed of information has increased dramatically in our
-interconnected world. Social media, blogging, and other forms of
-communication technology mean that crises appear and build momentum more
-quickly than ever. Basic exposure to crisis response presentations is
-essential because members of organizations never know when they may need
-to be part of responding to a crisis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rationale:&lt;/strong&gt; Confident and effective verbal and nonverbal communication is essential to presenting effectively.&lt;/p&gt;
 
 &lt;h1 id=&#34;materials-needed&#34;&gt;Materials Needed&lt;/h1&gt;
 
@@ -4413,7 +4413,7 @@ to be part of responding to a crisis.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Facial Expressions&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Eye contact&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Hands-on group work
+&lt;li&gt;Face-to-face Formative Assessment:
 
 &lt;ol&gt;
 &lt;li&gt;Go create an outline for a brief presentation in groups&lt;/li&gt;
@@ -4426,26 +4426,31 @@ to be part of responding to a crisis.&lt;/p&gt;
 &lt;li&gt;Deliver the random presentations&lt;/li&gt;
 &lt;li&gt;Debrief the activity&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Hybrid/Online Formative Assessment:
+
+&lt;ol&gt;
+&lt;li&gt;Follow the link on learning management system&lt;/li&gt;
+&lt;li&gt;Record a well-delivered introduction that you could use for your presentation&lt;/li&gt;
+&lt;li&gt;Ensure that you pay attention to all of the features of verbal and nonverbal presentations&lt;/li&gt;
+&lt;li&gt;Submit the recording (you can resubmit until you are happy with the recording)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 &lt;li&gt;Lesson closing&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&#34;limitations&#34;&gt;Limitations&lt;/h1&gt;
 
-&lt;p&gt;This lesson requires student access to online resources and personal
-computers. Strategic grouping may be necessary for improved peer
-mentoring.&lt;/p&gt;
+&lt;p&gt;This lesson requires student access to online resources and personal computers.
+Strategic grouping may be necessary for improved peer mentoring.&lt;/p&gt;
 
 &lt;!--
-Debrief
-=======
+# Debrief
 --&gt;
 
 &lt;h1 id=&#34;variations-and-accommodations&#34;&gt;Variations and Accommodations&lt;/h1&gt;
 
-&lt;p&gt;Follow guidance from local accommodation authorities. Students for whom
-technology usage will present an unreasonable burden may be accommodated
-on an individual basis. Students may be placed in groups strategically if
-needed.&lt;/p&gt;
+&lt;p&gt;Follow guidance from local accommodation authorities.
+Students for whom technology usage will present an unreasonable burden may be accommodated on an individual basis.
+Students may be placed in groups strategically if needed.&lt;/p&gt;
 
 &lt;!-- End Notes --&gt;
 
@@ -4453,6 +4458,7 @@ needed.&lt;/p&gt;
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v0.05 | 2020-09-13 | updated format, and for Canvas. Added formative assessment
   v0.04 | 2019-08-07 | Changes for Hugo compatibility
   v0.03 | 2017-09-14 | Expanded on note card section, Added facial expressions (how did I forget those?)
   v0.02 | 2017-08-11 | Added section on using note cards
